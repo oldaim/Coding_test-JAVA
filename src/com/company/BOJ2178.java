@@ -8,17 +8,6 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 
-class Pair{
-    Integer y;
-    Integer x;
-    Integer dis;
-    public Pair(Integer y, Integer x, Integer dis) {
-        this.y = y;
-        this.x = x;
-        this.dis = dis;
-    }
-
-}
 
 
 
